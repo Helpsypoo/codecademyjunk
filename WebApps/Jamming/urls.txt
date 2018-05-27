@@ -1,0 +1,6 @@
+http://jammming.s3-website-us-east-1.amazonaws.com/
+https://developer.spotify.com/web-api/endpoint-reference/
+https://developer.spotify.com/web-api/tutorial/
+
+https://docs.google.com/document/d/1QIBjLcNH5t7FrPwuC7jNnhE1JPmwskdB7U7z0OSeDsU/edit
+https://docs.google.com/document/d/1bHEQvYYAwSpAkdpv7hp8eu-iMnvqYVS4UffCLKvaKGg/edit
